@@ -44,5 +44,4 @@ Here are some ideas to get you started:
 
 ### Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoizAdnan&hide=stars&?count_private=true&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoizAdnan&layout=compact&theme=radical )](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=MoizAdnan&theme=radical)](https://git.io/streak-stats)
